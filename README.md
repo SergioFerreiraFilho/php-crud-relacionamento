@@ -1,1 +1,1 @@
-# php-crud-relacionamento
+# php-crud-cursos
